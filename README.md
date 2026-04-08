@@ -20,19 +20,19 @@ I focus on building end-to-end AI systems — from data pipelines and model trai
 
 ## Featured Projects
 
-### 🧾 Intelligent Document Assistant (RAG)
+### Intelligent Document Assistant (RAG)
 
 * Built a semantic search + question-answering system using LangChain and pgvector
 * Implemented document ingestion, chunking, and embedding pipelines
 * Improved retrieval quality over keyword-based search
 
-### 🤖 Multi-Agent AI Workflow System
+### Multi-Agent AI Workflow System
 
 * Designed a multi-agent architecture for structured task execution
 * Implemented planning, execution, and validation workflows
 * Added logging for observability and debugging
 
-### 📊 Domain-Specific NLP Model
+### Domain-Specific NLP Model
 
 * Fine-tuned transformer models for classification tasks
 * Built preprocessing pipelines for large datasets
@@ -44,4 +44,4 @@ I focus on building end-to-end AI systems — from data pipelines and model trai
 
 * LinkedIn: linkedin.com/in/yamini-ravuri
 
-* Email: ranusha1214@gmail.com
+* Email: yamini.ravuri1403@gmail.com
